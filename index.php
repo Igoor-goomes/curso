@@ -29,8 +29,11 @@
                     <h3>Tipos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Atividade 06 | Tipo Inteiro</a></li>
-                        <li><a href="exercicio.php?dir=tipos&file=float">Atividade 06 | Tipo Float</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Atividade 07 | Tipo Float</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Atividade 06 | Op. Aritméticas</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=string">Atividade 08 | Tipo String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_string">Atividade 09 | Desafio String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=booleano">Atividade 10 | Tipo Booleano</a></li>
                     </ul>
                 </div>
             </nav>
