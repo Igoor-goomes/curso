@@ -36,6 +36,13 @@
                         <li><a href="exercicio.php?dir=tipos&file=booleano">Atividade 10 | Tipo Booleano</a></li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Atividade 11 | Básico</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Atividade 12 | Desafio Equação</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
