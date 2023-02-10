@@ -43,6 +43,10 @@
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Atividade 12 | Desafio Equação</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atividade 13 | Atribuições</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Atividade 14 | Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Atividade 15 | Variáveis Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Atividade 16 | Dasafio Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Atividade 17 | Valor vs Referência</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Atividade 17 | Constantes</a></li>
                     </ul>
                 </div>
             </nav>
