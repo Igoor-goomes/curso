@@ -52,7 +52,7 @@
                 <div class="modulo roxo">
                     <h3>Controle</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=controle&file=if_else">Atividade 18 | #</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">Atividade 18 | if else</a></li>
                     </ul>
                 </div>
             </nav>
