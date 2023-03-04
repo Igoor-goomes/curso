@@ -54,8 +54,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">Atividade 20| if else</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Atividade 21 | Operadores Relacionais</a></li>
-                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Atividade 22 | Desafio Operadores Relacionais</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Atividade 22 | Desafio Op. Relacionais</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Atividade 23 | Operadores Lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Atividade 24 | Desafio Op. Lógicos</a></li>
                     </ul>
                 </div>
             </nav>
