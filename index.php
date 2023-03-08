@@ -57,6 +57,7 @@
                         <li><a href="exercicio.php?dir=controle&file=desafio_pi">Atividade 22 | Desafio Op. Relacionais</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Atividade 23 | Operadores Lógicos</a></li>
                         <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Atividade 24 | Desafio Op. Lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Atividade 25 | Operador Ternário</a></li>
                     </ul>
                 </div>
             </nav>
